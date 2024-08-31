@@ -1,6 +1,6 @@
 # wav2ogg
 
-![Logo](images/logo.png)
+<img src="images/logo.png" alt="Logo" style="max-width: 400px;"/>
 
 ## Overview
 
@@ -34,8 +34,7 @@ To convert multiple WAV files:
 
 ## Screenshots
 
-![Screenshot](images/screenshot1.png)
-![Screenshot](images/screenshot2.png)
+<img src="https://ia801806.us.archive.org/33/items/wav-2-ogg-converter/image_2024-08-18_124048116.png" alt="Screenshot 1" style="max-width: 400px;"/>
 
 ## Contributing
 
@@ -57,7 +56,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [wav2ogg on Archive.org](https://archive.org/details/wav-2-ogg-converter)
 
 ---
-
-## Contact
-
-For any inquiries or support, please contact [your-email@example.com](mailto:your-email@example.com).

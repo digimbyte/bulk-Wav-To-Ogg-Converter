@@ -1,6 +1,6 @@
 # wav2ogg
 
-<img src="images/logo.png" alt="Logo" style="max-width: 400px;"/>
+<img src="images/logo_b.png" alt="Logo" style="max-width: 400px;"/>
 
 ## Overview
 

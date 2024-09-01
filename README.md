@@ -3,6 +3,7 @@
 <p align="center">
 <img src="images/logo_b.png" alt="Logo" style="max-width: 400px;"/>
 </p>
+
 ## Overview
 
 **wav2ogg** is a user-friendly GUI tool designed for Windows that allows you to convert WAV audio files to OGG format easily. With a simple interface, you can quickly convert audio files without the need for complex command-line operations.
